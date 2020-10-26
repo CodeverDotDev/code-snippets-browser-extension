@@ -6,7 +6,7 @@ the Bookmarks and Code Snippets Manager for Developers & Co.
 ## Install
 This browser extension is available for:
 
-| ![Chrome](resources/img/logo/chrome-48.png) | ![Firefox](resources/img/logo/fx-48.png) |
+| ![Chrome](assets/images/chrome-48.png) | ![Firefox](assets/images/fx-48.png) |
 |:---:|:---:|
 | [Chrome](TODO-add-link-to-google-store) | ![Firefox](TODO-add-link-to-firefox-store) |
 
@@ -35,7 +35,7 @@ where you have checked it out:
 
 > Click "Reload" on the extension when you do modifications 
 
-### 
+### Firefox
 #### Use [web-ext](https://github.com/mozilla/web-ext)
 The easiest way is to use [web-ext](https://github.com/mozilla/web-ext)
  You can install it globally for example via
