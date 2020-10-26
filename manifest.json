@@ -3,7 +3,7 @@
     "name": "Save code to Bookmarks.dev",
     "description": "Select code snippet and right click or click on the extension icon to save it to Bookmarks.dev",
     "version": "1.0.0",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types",
+    "homepage_url": "https://github.com/BookmarksDev/code-snippets-browser-extension",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
@@ -18,8 +18,7 @@
 
     "permissions": [
         "activeTab",
-        "contextMenus",
-        "clipboardWrite"
+        "contextMenus"
     ],
     "browser_action": {
         "default_icon": "icons/icon128.png"
