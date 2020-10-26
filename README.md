@@ -49,7 +49,7 @@ web-ext run
 ```
 
 This installs "Save code to Bookmarks.dev" as a temporary add-on and it watches for changes in the source code
-and **redploys automatically**.
+and **redeploys automatically**.
 
 #### Manual deployment
 Go to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox), click **Load Temporary Add-on...**
@@ -75,7 +75,7 @@ and then Reload the extension with one of the mechanisms mentioned before
 
 First of all zip the file either with `web-ext`
 ```
-web-ext build -i 'docs'
+web-ext build -i 'resources'
 ```
 
 or with _standard_ `zip` command:
