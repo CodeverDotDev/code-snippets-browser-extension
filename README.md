@@ -6,9 +6,9 @@ the Bookmarks and Code Snippets Manager for Developers & Co.
 ## Install
 This browser extension is available for:
 
-| [![Chrome](assets/images/chrome-48.png)](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | ![Firefox](assets/images/fx-48.png) |
+| [![Chrome](assets/images/chrome-48.png)](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | [![Firefox](assets/images/fx-48.png)](https://addons.mozilla.org/en-GB/firefox/addon/save-code-to-bookmarks-dev/) |
 |:---:|:---:|
-| [Chrome](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | [Firefox](TODO-add-link-to-firefox-store) |
+| [Chrome](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/save-code-to-bookmarks-dev/) |
 
 > If your company blocks Browser Extensions, or you have a tight security blocking pop-up windows from extensions 
 > you can use the [our bookmarklets](https://www.bookmarks.dev/bookmarklets) which offer the same functionality 
