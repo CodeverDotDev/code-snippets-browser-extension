@@ -8,7 +8,7 @@ This browser extension is available for:
 
 | ![Chrome](assets/images/chrome-48.png) | ![Firefox](assets/images/fx-48.png) |
 |:---:|:---:|
-| [Chrome](TODO-add-link-to-google-store) | ![Firefox](TODO-add-link-to-firefox-store) |
+| [Chrome](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | ![Firefox](TODO-add-link-to-firefox-store) |
 
 > If your company blocks Browser Extensions, or you have a tight security blocking pop-up windows from extensions 
 > you can use the [our bookmarklets](https://www.bookmarks.dev/bookmarklets) which offer the same functionality 
