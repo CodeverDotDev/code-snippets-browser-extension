@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Save code to Bookmarks.dev",
-    "description": "Select code snippet and right click or click on the extension icon to save it to Bookmarks.dev",
+    "description": "Select code snippet, right click or click the extension icon to save it to Bookmarks.dev",
     "version": "1.0.0",
     "homepage_url": "https://github.com/BookmarksDev/code-snippets-browser-extension",
     "icons": {
