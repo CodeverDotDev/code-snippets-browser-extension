@@ -6,7 +6,7 @@ the Bookmarks and Code Snippets Manager for Developers & Co.
 ## Install
 This browser extension is available for:
 
-| ![Chrome](assets/images/chrome-48.png) | ![Firefox](assets/images/fx-48.png) |
+| [![Chrome](assets/images/chrome-48.png)](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | ![Firefox](assets/images/fx-48.png) |
 |:---:|:---:|
 | [Chrome](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | [Firefox](TODO-add-link-to-firefox-store) |
 
