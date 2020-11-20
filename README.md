@@ -10,11 +10,12 @@ This browser extension is available for:
 |:---:|:---:|
 | [Chrome](https://chrome.google.com/webstore/detail/save-code-to-bookmarksdev/mibimnflfgnaealndgnamblppebdngne) | [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/save-code-to-bookmarks-dev/) |
 
-> If your company blocks Browser Extensions, or you have a tight security blocking pop-up windows from extensions 
-> you can use the [our bookmarklets](https://www.bookmarks.dev/bookmarklets) which offer the same functionality 
+> If your company blocks Browser Extensions, or you have a tight security blocking pop-up windows from extensions
+> (**Firefox blocks new windows from pages by default**)
+> you can use the [our bookmarklets - snippets](https://www.bookmarks.dev/bookmarklets) which offer the same functionality 
 
 ## How to use
-Select code snippet && (right click || click on extension icon) to save it to [Bookmarks.dev](https://www.bookmarks.dev).
+Select code snippet on page AND (right click OR click the extension icon) to save it to [Bookmarks.dev](https://www.bookmarks.dev).
 
 A popup window is launched where you can add additional metadata to the code snippet record.
 
