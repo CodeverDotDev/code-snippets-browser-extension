@@ -1,4 +1,4 @@
-Save code to Bookmarks.dev Browser Extension
+(Deprecated - use [this extension instead](https://github.com/codeverland/codever-browser-extension)) Save code to Bookmarks.dev Browser Extension
 ---
 Browser extension to save code snippets to [www.bookmarks.dev](https://www.bookmarks.dev), 
 the Bookmarks and Code Snippets Manager for Developers & Co. 
